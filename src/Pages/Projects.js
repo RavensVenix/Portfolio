@@ -3,6 +3,9 @@ import Project from "../Components/Project";
 import { projectDetails } from "../Details";
 
 function Projects() {
+  // Slice the projectDetails array to contain only the first two elements
+  const projectsToShow = projectDetails.slice(0, 2);
+
   return (
     <main className="container mx-auto max-width pt-10 mb-20">
       <section>
@@ -11,7 +14,7 @@ function Projects() {
         </h1>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-10">
           {React.Children.toArray(
-            projectDetails.map(
+            projectsToShow.map(
               ({ title, image, description, techstack, previewLink, githubLink }) => (
                 <Project
                   title={title}
