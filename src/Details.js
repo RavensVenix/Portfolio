@@ -1,7 +1,4 @@
 // Enter all your detials in this file
-// Logo images
-import logogradient from "./assets/logo.svg";
-import logo from "./assets/logo2.svg";
 // Profile Image
 import profile from "./assets/profile.jpg";
 // Tech stack images
@@ -22,12 +19,7 @@ import figma from "./assets/techstack/figma.png";
 // Porject Images
 import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
-
-// Logos
-export const logos = {
-  logogradient: logogradient,
-  logo: logo,
-};
+import projectImage3 from "./assets/projects/project3.png";
 
 // Enter your Personal Details here
 export const personalDetails = {
@@ -44,14 +36,6 @@ export const socialMediaUrl = {
   twitter: "https://twitter.com/",
   instagram: "https://www.instagram.com/ravensvenix",
 };
-
-// Enter your Work Experience here
-export const workDetails = [
-];
-
-// Enter your Education Details here
-export const eduDetails = [
-];
 
 // Tech Stack and Tools
 export const techStackDetails = {
@@ -88,6 +72,14 @@ export const projectDetails = [
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://api.xenzz.com/shorturl",
     githubLink: "https://github.com/ravensvenix",
+  },
+  {
+    title: "Py-AutoClicker",
+    image: projectImage3,
+    description: `Just 4 Fun Tool :D`,
+    techstack: "Python",
+    previewLink: "https://github.com/RavensVenix/Py-AutoClicker",
+    githubLink: "https://github.com/RavensVenix/Py-AutoClicker",
   },
 ];
 
