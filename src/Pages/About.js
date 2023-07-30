@@ -1,6 +1,6 @@
 import React from "react";
 import Work from "../Components/Work";
-import { personalDetails, workDetails, eduDetails } from "../Details";
+import { personalDetails } from "../Details";
 
 function About() {
   return (
