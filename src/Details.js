@@ -38,7 +38,7 @@ export const personalDetails = {
   name: "Xenz",
   tagline: "I like to make things from the Internet.",
   img: profile,
-  about: `Hi, my name is Xenz\nI am a 15 year old teenager. I really like to make anything from the Internet, and learn from it. I really like Music, it really calms my Heart!`,
+  about: `Hi, my name is Xenz. I am a 15 year old teenager. I really like to make anything from the Internet, and learn from it. I really like Music, it really calms my Heart!`,
 };
 
 // Enter your Social Media URLs here
@@ -126,43 +126,7 @@ export const projectDetails = [
     description: `Hey, that link is really long...`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://api.xenzz.com/shorturl",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 3",
-    image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 4",
-    image: projectImage4,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 5",
-    image: projectImage5,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
-  },
-  {
-    title: "Project title 6",
-    image: projectImage6,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    githubLink: "https://github.com/ravensvenix",
   },
 ];
 
