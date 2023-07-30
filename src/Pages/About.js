@@ -1,5 +1,4 @@
 import React from "react";
-import Work from "../Components/Work";
 import { personalDetails } from "../Details";
 
 function About() {
