@@ -3,9 +3,6 @@ import Project from "../Components/Project";
 import { projectDetails } from "../Details";
 
 function Projects() {
-  // Slice the projectDetails array to contain only the first two elements
-  const projectsToShow = projectDetails.slice(0, 2);
-
   return (
     <main className="container mx-auto max-width pt-10 mb-20">
       <section>
