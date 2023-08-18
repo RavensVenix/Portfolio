@@ -10,7 +10,7 @@ function Footer() {
           target="_blank"
           rel="noreferrer noopener"
         >
-          Xenz
+          Caeszx
         </a>{" "}
         with
         <span className="text-gradient font-medium"> Love</span>
