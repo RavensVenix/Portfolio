@@ -23,10 +23,10 @@ import projectImage3 from "./assets/projects/project3.png";
 
 // Enter your Personal Details here
 export const personalDetails = {
-  name: "Xenz",
+  name: "Caesar Abhista Agrippina",
   tagline: "I like to make things from the Internet.",
   img: profile,
-  about: `Hi, my name is Xenz. I am a 15 year old teenager. I really like to make anything from the Internet, and learn from it. I really like Music, it really calms my Heart!`,
+  about: `Hi, my name is Caesar Abhista Agrippina. I am a 15 year old teenager. I really like to make anything from the Internet, and learn from it. I really like Music, it really calms my Heart!`,
 };
 
 // Enter your Social Media URLs here
