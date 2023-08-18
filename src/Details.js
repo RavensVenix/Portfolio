@@ -20,6 +20,7 @@ import figma from "./assets/techstack/figma.png";
 import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
 import projectImage3 from "./assets/projects/project3.png";
+import projectImage4 from "./assets/projects/project4.png";
 
 // Enter your Personal Details here
 export const personalDetails = {
@@ -58,12 +59,12 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Xenz - REST APIs",
-    image: projectImage1,
-    description: `A REST APIs that you might find useful?`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://api.xenzz.com/",
-    githubLink: "https://github.com/ravensvenix",
+    title: "Py-AutoClicker",
+    image: projectImage3,
+    description: `Just 4 Fun Tool :D`,
+    techstack: "Python",
+    previewLink: "https://github.com/RavensVenix/Py-AutoClicker",
+    githubLink: "https://github.com/RavensVenix/Py-AutoClicker",
   },
   {
     title: "URL Shortner",
@@ -74,12 +75,20 @@ export const projectDetails = [
     githubLink: "https://github.com/ravensvenix",
   },
   {
-    title: "Py-AutoClicker",
-    image: projectImage3,
-    description: `Just 4 Fun Tool :D`,
-    techstack: "Python",
-    previewLink: "https://github.com/RavensVenix/Py-AutoClicker",
-    githubLink: "https://github.com/RavensVenix/Py-AutoClicker",
+    title: "Rennime - Streaming Online",
+    image: projectImage4,
+    description: `I don't know why I made this, but I just wanted to try it.`,
+    techstack: "Blogger",
+    previewLink: "https://rennime-stream.blogspot.com",
+    githubLink: "https://github.com/ravensvenix",
+  },
+  {
+    title: "Xenz - REST APIs",
+    image: projectImage1,
+    description: `A REST APIs that you might find useful?`,
+    techstack: "HTML/CSS, JavaScript",
+    previewLink: "https://api.xenzz.com/",
+    githubLink: "https://github.com/ravensvenix",
   },
 ];
 
