@@ -20,7 +20,7 @@ import figma from "./assets/techstack/figma.png";
 import projectImage1 from "./assets/projects/project1.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
 import projectImage3 from "./assets/projects/project3.png";
-import projectImage4 from "./assets/projects/project4.png";
+import projectImage4 from "./assets/projects/project4.jpg";
 
 // Enter your Personal Details here
 export const personalDetails = {
